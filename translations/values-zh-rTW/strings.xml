@@ -8,20 +8,20 @@
     <string name="app_name">黑色沙漠的幫手</string>
 
     <!-- !! NAVIGATION -->
-    <string name="navigation_drawer_open">打開導航抽屜</string>
-    <string name="navigation_drawer_close">關閉導航抽屜</string>
-    <string name="action_settings">設置</string>
+    <string name="navigation_drawer_open">打開導航列</string>
+    <string name="navigation_drawer_close">關閉導航列</string>
+    <string name="action_settings">設定</string>
 
     <!-- !! TITLES -->
     <string name="title_news_feed">黑色沙漠新聞</string>
     <string name="title_map">地圖</string>
-    <string name="title_header_timers">計時器</string>
-    <string name="title_header_crafting">手工藝</string>
+    <string name="title_header_timers">時鐘</string>
+    <string name="title_header_crafting">加工</string>
     <string name="title_header_calculators">計算器</string>
     <string name="title_header_charts">圖表</string>
     <string name="title_header_misc">雜項</string>
     <string name="title_main_timer">在線計時器</string>
-    <string name="title_boss_timer">老闆計時器</string>
+    <string name="title_boss_timer">頭目計時器</string>
     <string name="title_cooking_inspection">檢查</string>
     <string name="title_cooking_db">烹飪數據庫</string>
     <string name="title_alchemy_db">煉金術數據庫</string>
